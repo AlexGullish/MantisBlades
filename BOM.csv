@@ -1,3 +1,4 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
 Joystick,1,BerryBase,$1.89,$1.89,https://www.berrybase.ch/analoges-2-achsen-joystick-modul-mit-select-taster
+Servo,2,BerryBase,$3.11,$6.22,https://www.berrybase.ch/sg92r-micro-servo
 Estimated total shipping,1,,,$0.00,
