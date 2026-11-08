@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 5 | Tier 1 | 11.5h | 4 |
+| Week 5 | Tier 1 | 11.9h | 4 |
 
 ## Contents
 
@@ -59,9 +59,11 @@ Doing some research, I have settled on two MG90Ss for the servo motors which wil
 
 ### 2026-11-08: I sketched out the wiring layout to finish up my project. Originally I was planning on using a custom pcb but since i'll need wires to connect the motor regardless, I figured it'd be easier to just us
 
-**3h**
+**3.4h**
 
-I sketched out the wiring layout to finish up my project. Originally I was planning on using a custom pcb but since i'll need wires to connect the motor regardless, I figured it'd be easier to just use a breadboard instead. I played around with pcb model in KiCAD but eventually decided against it. I also refined the blade model in CAD before settling on a design I am happy with.
+I sketched out the wiring layout to finish up my project. Originally I was planning on using a custom pcb but since i'll need wires to connect the motor regardless, I figured it'd be easier to just use a breadboard instead. I played around with pcb model in KiCAD but eventually decided against it. I also refined the blade model in CAD before settling on a design I am happy with and wrote out the firmware
+
+![image](https://halflife.hackclub-assets.com/sessions/pWqxguXwiTp277tuZqvhjznRDSL9jO4l/bfd1f74e0a42bdd3fc9e0a0a81e1dc6de7b8b6c33fcbba2b5e1526657f2f9040.png)
 
 ![image](https://halflife.hackclub-assets.com/sessions/pWqxguXwiTp277tuZqvhjznRDSL9jO4l/c18ff78df0ab76b107894083c9c7ddab82f8f81270aaa2307dcdee55f9a86d8c.png)
 
